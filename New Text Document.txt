@@ -1,8 +1,0 @@
-hello thi is a git comand for gir push
-
-
-1. make your repositry
-2. go to your folder path
-3. then open cdm cmand
-4. after go github thos repositry copy path dod
-5. then pest the cmd path and pses enter
