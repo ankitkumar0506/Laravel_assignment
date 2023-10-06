@@ -27,10 +27,10 @@ class HomeController extends Controller
         return view('gallery');
     }
 
-    public function index5()
-    {
-        return view('login');
-    }
+    // public function index5()
+    // {
+    //     return view('login');
+    // }
 
     public function index6()
     {
